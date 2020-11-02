@@ -6,6 +6,18 @@ News
 [.text-right]
 icon:edit[] link:https://github.com/libremesh/lime-web/edit/master/news.txt[Edit this page]
 
+=== 2020-10-01 - Second release candidate released
+
+Thanks to all the community testing we fixed some bugs :)
+
+As there are several changes still around we decided to make a second release candidate:
+https://github.com/libremesh/lime-packages/releases/tag/v20.09-rc.2[v20.09-rc.2].
+
+Use the git tag `v20.09-rc.2` for testing in your feeds configuration:
+```
+src-git libremesh https://github.com/libremesh/lime-packages.git;v20.09-rc.2
+```
+
 === 2020-09-18 - A release candidate for the next release!
 
 Although the LibreMesh development never stopped, it was since the 17.06
